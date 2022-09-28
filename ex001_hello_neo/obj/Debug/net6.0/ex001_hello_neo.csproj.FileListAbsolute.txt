@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\bin\Debug\net6.0\ex001_hello_neo.exe
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\bin\Debug\net6.0\ex001_hello_neo.deps.json
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\bin\Debug\net6.0\ex001_hello_neo.runtimeconfig.json
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\bin\Debug\net6.0\ex001_hello_neo.dll
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\bin\Debug\net6.0\ex001_hello_neo.pdb
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ex001_hello_neo.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ex001_hello_neo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ex001_hello_neo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ex001_hello_neo.AssemblyInfo.cs
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ex001_hello_neo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ex001_hello_neo.dll
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\refint\ex001_hello_neo.dll
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ex001_hello_neo.pdb
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ex001_hello_neo.genruntimeconfig.cache
+C:\Users\user\Desktop\GB\C# education\Less1\ex001_hello_neo\obj\Debug\net6.0\ref\ex001_hello_neo.dll
